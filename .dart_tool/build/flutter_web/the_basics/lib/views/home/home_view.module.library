@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","the_basics|lib/widgets/call_to_action/call_to_action.dart","the_basics|lib/widgets/centered_view/centered_view.dart","the_basics|lib/widgets/contain_details/contain_details.dart","the_basics|lib/widgets/navigation_bar/navigation_bar.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

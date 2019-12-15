@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","the_basics|lib/views/home/home_view.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
